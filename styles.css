@@ -1,0 +1,21 @@
+body {
+    background-color:honeydew;
+}
+h1 {
+    color:lightcoral;
+    text-align:center;
+    font-family:"Papyrus",fantasy,cursive
+}
+h2 {
+    color:rosybrown;
+    font-family:"Monaco",monospace, sans-serif
+    
+}
+h3 {
+    color:dimgray;
+    font-family:"Monaco",monospace, sans-serif
+}
+p {
+    color:dimgray;
+    font-family:"Monaco",monospace, sans-serif
+}
