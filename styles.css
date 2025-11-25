@@ -1,21 +1,26 @@
 body {
     background-color:honeydew;
+    margin-left:15%;
+    margin-right:15%;
 }
 h1 {
     color:lightcoral;
     text-align:center;
-    font-family:"Papyrus",fantasy,cursive
+    font-family:"Papyrus",fantasy,cursive;
 }
 h2 {
     color:rosybrown;
-    font-family:"Monaco",monospace, sans-serif
-    
+    font-family:"Monaco",monospace, sans-serif;
 }
 h3 {
     color:dimgray;
-    font-family:"Monaco",monospace, sans-serif
+    font-family:"Monaco",monospace, sans-serif;
 }
 p {
     color:dimgray;
-    font-family:"Monaco",monospace, sans-serif
+    font-family:"Monaco",monospace, sans-serif;
+}
+li {
+    color:dimgray;
+    font-family:"Monaco",monospace, sans-serif;
 }
