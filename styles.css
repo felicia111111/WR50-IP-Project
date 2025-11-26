@@ -38,9 +38,9 @@ a:visited {
     color:palevioletred;
 }
 iframe {
-    align-items:center;
+    
     border-width:5%;
     border-color:honeydew;
-    width:60vw;
-    height:34vw;
+    width:100vw;
+    height:56vw;
 }
