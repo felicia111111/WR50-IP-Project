@@ -2,7 +2,7 @@ body {
     background-color:honeydew;
     background-image:url(moon.png),url(bamboo_l.png),url(bamboo_r.png);
     background-position:center top,left top,right top;
-    background-size:75vh 100vh,50vh 67vh,75vh 100vh;
+    background-size:75vh 100vh,75vh 100vh,75vh 100vh;
     background-attachment:fixed;
     background-repeat:no-repeat,no-repeat,no-repeat;
     margin-left:20%;
