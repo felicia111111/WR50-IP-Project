@@ -1,7 +1,11 @@
 body {
     background-color:honeydew;
-    margin-left:15%;
-    margin-right:15%;
+    background-image:url(moon.png),url(bamboo_l.png),url(bamboo_r.png);
+    background-position:center top, left bottom, right bottom;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top: 2cm;
+    margin-bottom:2cm;
 }
 h1 {
     color:lightcoral;
