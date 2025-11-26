@@ -31,3 +31,14 @@ li {
     color:dimgray;
     font-family:"Monaco",monospace, sans-serif;
 }
+a:link{
+    color:hotpink;
+}
+a:visited {
+    color:palevioletred;
+}
+iframe {
+    align-items:center;
+    border-radius:5%;
+    border-color:honeydew;
+}
