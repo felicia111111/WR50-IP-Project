@@ -1,9 +1,9 @@
 body {
     background-color:honeydew;
     background-image:url(moon.png),url(bamboo_l.png),url(bamboo_r.png);
-    background-position:auto,top left,top right;
-    background-size:600px 800px,600px 800px,600px 800px;
-    background-attachment:fixed,fixed,fixed;
+    background-position:center top,left top,right top;
+    background-size:300px 400px,300px 400px,300px 400px;
+    background-attachment:fixed;
     background-repeat:no-repeat,no-repeat,no-repeat;
     margin-left:20%;
     margin-right:20%;
