@@ -41,5 +41,6 @@ iframe {
     align-items:center;
     border-width:5%;
     border-color:honeydew;
-    aspect-ratio:16/9;
+    width:60vw;
+    height:34vw;
 }
